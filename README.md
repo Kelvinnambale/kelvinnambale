@@ -5,8 +5,13 @@ Welcome to my GitHub profile! Overview of my contributions and statistics.
 ## 👨‍💻 About Me
 
 I'm Kelvin Nambale, a Tech entuthiast and a student pursuing Bachelor of science in Information and Communication Technology (ICT). Currently, I’m gaining valuable experience as an intern, where I’m honing my skills and applying my knowledge in real-world scenarios. I’m excited about the ever-evolving tech landscape and eager to contribute to innovative projects.
-## 🛠️ Languages and Tools
+## 🌐 Connect with me
 
+[![Twitter](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/kelvinnambale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kelvinnambale/)
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://your-website.com)
+
+## 🛠️ Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinnambale&layout=compact&theme=dark)
 
 
