@@ -10,3 +10,8 @@ I'm Kelvin Nambale, a Tech entuthiast and a student pursuing Bachelor of science
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinnambale&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
+## ⏳ Coding Stats
+
+[![wakatime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
+
+
