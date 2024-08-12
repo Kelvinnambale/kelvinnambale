@@ -8,7 +8,7 @@ I'm Kelvin Nambale, a Tech entuthiast and a student pursuing Bachelor of science
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kelvinnambale/)
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://[your-website.com]https://kelvinnambale.github.io/portfolio-website/)
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://kelvinnambale.github.io/portfolio-website/)
 
 ## 🛠️ Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinnambale&layout=compact&theme=dark)
