@@ -1,10 +1,4 @@
 # Hi there, I'm [Kelvin nambale] 👋
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
 
 Welcome to my GitHub profile! Overview of my contributions and statistics.
 
@@ -18,8 +12,6 @@ I'm Kelvin Nambale, a Tech entuthiast and a student pursuing Bachelor of science
 
 ## 🛠️ Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinnambale&layout=compact&theme=dark)
-
-
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinnambale&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
