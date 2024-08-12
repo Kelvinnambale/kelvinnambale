@@ -8,5 +8,5 @@ I'm Kelvin Nambale, a Tech entuthiast and a student pursuing Bachelor of science
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinnambale&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
 
