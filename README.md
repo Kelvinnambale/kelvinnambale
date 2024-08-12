@@ -1,4 +1,10 @@
 # Hi there, I'm [Kelvin nambale] 👋
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Features](#features)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 Welcome to my GitHub profile! Overview of my contributions and statistics.
 
