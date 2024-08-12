@@ -12,6 +12,6 @@ I'm Kelvin Nambale, a Tech entuthiast and a student pursuing Bachelor of science
 
 ## ⏳ Coding Stats
 
-[![wakatime](https://wakatime.com/badge/user/your-user-id.svg)](https://wakatime.com/@your-user-id)
+[![wakatime](https://wakatime.com/badge/user/120830157.svg)](https://wakatime.com/@120830157)
 
 
